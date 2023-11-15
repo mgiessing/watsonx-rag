@@ -2,9 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 #Files
-db_files/
+db_files/*
 
 # C extensions
 *.so
