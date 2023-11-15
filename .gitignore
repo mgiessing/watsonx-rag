@@ -5,7 +5,7 @@ __pycache__/
 .DS_Store
 
 #Files
-db_files/*
+db_files/*.pdf
 
 # C extensions
 *.so
